@@ -1,8 +1,10 @@
-const CACHE = 'finanzas-v1';
+const CACHE = 'finanzas-v2';
 const FILES = [
-  './',
-  './index.html',
-  './manifest.json'
+  '/proyecto1/',
+  '/proyecto1/index.html',
+  '/proyecto1/sw.js',
+  '/proyecto1/manifest.json',
+  '/proyecto1/icon.png'
 ];
 
 self.addEventListener('install', function(e) {
