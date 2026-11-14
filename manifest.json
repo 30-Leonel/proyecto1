@@ -1,0 +1,17 @@
+{
+  "name": "Mis Finanzas",
+  "short_name": "Finanzas",
+  "description": "App de finanzas personales",
+  "start_url": "./finanzas.html",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#4f46e5",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f4b0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
